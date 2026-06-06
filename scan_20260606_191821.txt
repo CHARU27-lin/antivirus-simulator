@@ -1,0 +1,21 @@
+========================================
+ANTIVIRUS SCAN REPORT
+========================================
+Date: 2026-06-06
+Time: 19:18:21
+========================================
+
+CLEAN FILES: 7
+  [CLEAN] E:\Antivirus-sim\fakevirus.txt
+  [CLEAN] E:\Antivirus-sim\hasher.py
+  [CLEAN] E:\Antivirus-sim\main.py
+  [CLEAN] E:\Antivirus-sim\quarantine.py
+  [CLEAN] E:\Antivirus-sim\report.py
+  [CLEAN] E:\Antivirus-sim\scanner.py
+  [CLEAN] E:\Antivirus-sim\signatures.py
+
+INFECTED FILES: 0
+
+========================================
+Total scanned: 7
+========================================
